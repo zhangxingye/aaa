@@ -3,6 +3,7 @@
   "name": "zhangxingye/aaa",
   "type": "library",
   "minimum-stability": "dev",
+  "version": "1.0.0",
   "description": "a fast and flexible HTTP Router",
   "keywords": [
     "http",
