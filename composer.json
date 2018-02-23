@@ -3,7 +3,7 @@
   "name": "zhangxingye/aaa",
   "type": "library",
  "license": "BSD-3-Clause",
- "minimum-stability": "stable",
+ "minimum-stability": "dev",
  "config": {
         "process-timeout": 1800
     }, 
