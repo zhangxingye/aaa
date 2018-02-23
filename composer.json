@@ -5,7 +5,6 @@
   "minimum-stability": "dev",
   "version": "1.0.0",
   "description": "a fast and flexible HTTP Router",
-
   "homepage": "https://github.com/zhangxingye/aaa",
   "license": "BSD-3-Clause",
   "support": {
