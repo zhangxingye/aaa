@@ -2,28 +2,16 @@
 {
   "name": "zhangxingye/aaa",
   "type": "library",
-  "minimum-stability": "dev",
-  "version": "1.0.0",
-  "description": "a fast and flexible HTTP Router",
-  "homepage": "https://github.com/zhangxingye/aaa",
-  "license": "BSD-3-Clause",
-  "support": {
-    "issues": "https://github.com/zhangxingye/aaa/issues"
-  },
-  "authors": [
-    {
-      "name": "aa Yang",
-      "email": "aa@gmail.com"
-    }
-  ],
-  "require": {
-    "php": ">=5.4.0",
-  },
-
- "repositories": [
+ "license": "BSD-3-Clause",
+ "minimum-stability": "stable",
+ "config": {
+        "process-timeout": 1800
+    }, 
+   "repositories": [
         {
             "type": "composer",
             "url": "https://asset-packagist.org"
         }
     ]
+  
 }
