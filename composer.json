@@ -2,6 +2,7 @@
 {
   "name": "zhangxingye/aaa",
   "type": "library",
+  "minimum-stability": "dev",
   "description": "a fast and flexible HTTP Router",
   "keywords": [
     "http",
@@ -22,7 +23,7 @@
   ],
   "require": {
   },
-"minimum-stability": "dev",
+
  "repositories": [
         {
             "type": "composer",
