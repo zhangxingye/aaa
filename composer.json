@@ -23,9 +23,10 @@
   "require": {
   },
 "minimum-stability": "dev",
-  "autoload": {
-    "psr-4": {
-      "RazonYang\\Routing\\": "src"
-    }
-  }
+ "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
 }
