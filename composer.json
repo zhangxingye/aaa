@@ -5,12 +5,7 @@
   "minimum-stability": "dev",
   "version": "1.0.0",
   "description": "a fast and flexible HTTP Router",
-  "keywords": [
-    "http",
-    "router",
-    "routing",
-    "RESTful API"
-  ],
+
   "homepage": "https://github.com/zhangxingye/aaa",
   "license": "BSD-3-Clause",
   "support": {
@@ -23,6 +18,7 @@
     }
   ],
   "require": {
+    "php": ">=5.4.0",
   },
 
  "repositories": [
